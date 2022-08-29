@@ -16,7 +16,7 @@ An API for a social network web application where users can share their thoughts
 Clone repo onto your local machine. Go into the terminal in the root directory of the repo and type NPM I
 
 ## Usage
-To use the project type npm start, then pull up postman with the appropriate routes to use them.
+To use the project type npm start, then pull up Insomnia with the appropriate routes to use them.
 
 ## Contributing
 There are no contribution guidlines for this project.
