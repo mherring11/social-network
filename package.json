@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mherring11/social-network/issues"
   },
-  "homepage": "https://github.com/mherring11/social-network#readme"
+  "homepage": "https://github.com/mherring11/social-network#readme",
+  "dependencies": {
+    "mongoose": "^6.5.3"
+  }
 }
